@@ -2,10 +2,6 @@
 <h3 align="center">Hello! 👋 I'm Beni Garcia, an iOS Developer participated at the  Apple Developer Academy Cohort 6. While in the academy, i've developed bunch of application that i created using Swift Language.</h3>
 <h3 align="center">Check my iOS portfolio <a href="https://github.com/beni2704/portfolio-ios">here</a> </h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=beni2704&label=Profile%20views&color=0e75b6&style=flat" alt="beni2704" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=beni2704" alt="beni2704" /></a> </p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/beni-garcia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="beni-garcia" height="30" width="40" /></a>
